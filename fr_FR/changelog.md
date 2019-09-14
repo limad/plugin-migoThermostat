@@ -7,8 +7,8 @@ description: Intégration des thermostats Migo/Erelax/Vsmart.
 
 # MigoThermostat - Plugin pour Jeedom
 
-* Intégration du Thermostat [MigoThermostat.](https://limad.github.io/plugin-migoThermostat/fr_FR/#tocAnchor-1-3).
-* Topic dedié du Thermostat [MigoThermostat.](https://www.jeedom.com/forum/viewtopic.php?p=764669#p764669).
+* Installation du thermostat [MigoThermostat.](https://limad.github.io/plugin-migoThermostat/fr_FR/#tocAnchor-1-3)
+* Topic dedié du thermostat [MigoThermostat.](https://www.jeedom.com/forum/viewtopic.php?p=764669#p764669)
 * [Documentation](index.md).
 
 ## Changelog
