@@ -14,9 +14,11 @@ description: Intégration des thermostats Migo/Erelax/Vsmart.
 ## Changelog
 >*Liste non-exhaustive. Les changements mineurs et/ou correction de bugs ne figurent pas forcément ici.*
 
-### 06/09/2019
-* Création de la version Stable Jeedom V4
+### 14/09/2019
+* Mise en conformité pour Jeedom V4
+* refonte de la tuile "dashboard" (correction de bugs, conformité V4, optimisation du code...)
+* remise en service du panel.
+* correction de bugs mineurs.
 * Passage de la beta sur Jeedom V4
 
 >   *Pour Jeedom V3, rester dorénavant en version Stable. Le market sélectionne automatique la stable V3 ou V4 en fonction de votre version de Jeedom.*
-
