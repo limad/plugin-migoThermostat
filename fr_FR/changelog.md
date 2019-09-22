@@ -13,7 +13,11 @@ description: Intégration des thermostats Migo/Erelax/Vsmart.
 
 ## Changelog
 >*Liste non-exhaustive. Les changements mineurs et/ou correction de bugs ne figurent pas forcément ici.*
-
+### 22/09/2019
+* Mise en conformité pour PHP-7.3(Buster)
+* séparation tuile V3/V4
+* correction bug (graphiques depuis la tuile)
+* optimisations diverses
 ### 14/09/2019
 * Mise en conformité pour Jeedom V4
 * refonte de la tuile "dashboard" (correction de bugs, conformité V4, optimisation du code...)
