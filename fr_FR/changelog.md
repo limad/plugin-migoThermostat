@@ -18,9 +18,9 @@ description: Intégration des thermostats Migo/Erelax/Vsmart.
 Donc pour Jeedom V4:
 * optimisations diverses (errors logs,...)
 * correction et amelioration des tuiles(dashboard, mobile)
-  icone(anticipation, status de chauffe)
-  lien vers le panel
-  signalement et affichage des alertes "error" sur la tuile...
+  - icone(anticipation, status de chauffe)
+  - lien vers le panel
+  - signalement et affichage des alertes "error" sur la tuile...
  *...
 ### 22/09/2019
 * Mise en conformité pour PHP-7.3(Buster)
