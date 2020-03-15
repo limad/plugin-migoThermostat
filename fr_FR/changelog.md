@@ -20,8 +20,8 @@ Donc pour Jeedom V4:
 * correction et amelioration des tuiles(dashboard, mobile)
   - icone(anticipation, status de chauffe)
   - lien vers le panel
-  - signalement et affichage des alertes "error" sur la tuile...
- *...
+  - signalement et affichage des alertes "error" sur la tuile.
+* ...
 ### 22/09/2019
 * Mise en conformité pour PHP-7.3(Buster)
 * séparation tuile V3/V4
