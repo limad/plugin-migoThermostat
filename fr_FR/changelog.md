@@ -13,7 +13,7 @@ description: Intégration des thermostats Migo/Erelax/Vsmart.
 
 ## Changelog
 >*Liste non-exhaustive. Les changements mineurs et/ou correction de bugs ne figurent pas forcément ici.*
-### 15/03/2020
+### 09/10/2020
 * ajout d'une commande info "Etat-Ecs"
 * adaptation de la nouvelle commande sur tuile(dashboard)
 * correction et amélioration des tuiles(dashboard) pour s'adapter aux différends thèmes
